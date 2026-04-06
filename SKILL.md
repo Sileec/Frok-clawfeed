@@ -3,8 +3,7 @@ name: clawfeed
 description: AI 驱动的新闻摘要工具，自动从 Twitter 和 RSS 生成结构化摘要（4小时/每日/每周/每月）。当用户要求总结新闻、追踪信息流、整理社交媒体内容时使用。
 version: 1.0.0
 author: Sileec
-tags: [news, rss, twitter, summary]
-allowed-tools: [Read, Bash]
+
 ---
 
 # ClawFeed
