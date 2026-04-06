@@ -2,7 +2,7 @@
 # ClawFeed
 
 AI-powered news digest tool. Automatically generates structured summaries (4H/daily/weekly/monthly) from Twitter and RSS feeds.
-
+---
 ## Credentials & Dependencies
 
 ClawFeed runs in **read-only mode** with zero credentials — browse digests, view feeds, switch languages. Authentication features (bookmarks, sources, packs) require additional credentials.
@@ -90,4 +90,3 @@ handle_path /digest/* {
     file_server
 }
 ```
----
